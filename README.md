@@ -23,8 +23,10 @@
 
 ### **References**
 
-    [1]. Yadav, D., Sekar, K., & Ramu, P. (2024). Adaptive sampling based estimation of small probability of failure using interpretable Self-Organising Map. Structural Safety, 102470.
+    [1]. Yadav, D., Sekar, K., & Ramu, P. (2024). Adaptive sampling based estimation of small probability of failure using
+         interpretable Self-Organising Map. Structural Safety, 102470.
 
-    [2]. Ramu, P., Kim, N. H., & Haftka, R. T. (2010). Multiple tail median approach for high reliability estimation. Structural Safety, 32(2), 124-137.
+    [2]. Ramu, P., Kim, N. H., & Haftka, R. T. (2010). Multiple tail median approach for high reliability estimation. 
+         Structural Safety, 32(2), 124-137.
 
 
